@@ -1,0 +1,13 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "http-server", "author": "typicode" },
+    { "id": 3, "title": "test-server", "author": "typicode" },
+    { "id": 4, "title": "apache-server", "author": "apache.org" },
+    { "id": 5, "title": "nginx-server", "author": "nginx" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
